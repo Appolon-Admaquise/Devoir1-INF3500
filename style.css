@@ -16,8 +16,8 @@ body{
 .container{
     width: 1200px;
     display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
+    justify-content: center;
+    align-items: center;
     gap: 80px;
     margin-top: -50px;
 }
@@ -87,7 +87,7 @@ form{
 }
 .right{
 width: 65%;
-display: flex;
+display: center;
 justify-content: center;
 }
 .right img{
